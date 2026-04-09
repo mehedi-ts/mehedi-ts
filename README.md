@@ -1,27 +1,58 @@
 ### Hi there 👋, I'm Mehedi Hasan
-#### web devloper
-![web devloper](https://media.licdn.com/dms/image/v2/D4E16AQF6rUMHXB_IUw/profile-displaybackgroundimage-shrink_350_1400/B4EZVflhb5HUAc-/0/1741065434071?e=1746662400&v=beta&t=ZxFZkwM7fsAEcd3JActY-qwlc6asEEbSbwdBE2P44VM)
 
-I am a Front-End Web Developer passionate about creating clean, responsive, and user-friendly websites. My journey in web development started with HTML and CSS, and I am currently expanding my skills in JavaScript. I enjoy learning new technologies and improving my craft every day.
+#### Front-End Web Developer | React.js Enthusiast | Learning Next.js
 
-I believe in writing efficient code and building web experiences that are both visually appealing and functional. While I am still exploring technologies like PHP, my primary focus is on mastering front-end development. My goal is to create high-quality websites that provide a seamless user experience.
+![Mehedi Hasan](https://i.ibb.co.com/S7cPbn9F/Mehedi-Hasan-1.png)
 
-Skills:  HTML / CSS / JS
+I am passionate about building modern, responsive, and user-friendly web applications.  
+I focus on writing clean code, improving UI/UX, and continuously learning new technologies.
 
-- 🔭 I’m currently working on youtube 
-- 🌱 I’m currently learning JavaScript 
-- 💬 Ask me about web devlopment 
+🚀 Turning ideas into real-world web experiences
+
+---
+
+# 💫 About Me:
+- 🔭 I’m currently working on modern front-end projects  
+- 🌱 I’m currently learning Next.js & advanced React concepts  
+- 👯 I’m looking to collaborate on Frontend projects & React-based web apps  
+- 🤔 I’m looking for help with Next.js & backend integration  
+- 💬 Ask me about React.js, JavaScript, HTML, CSS  
+- 📫 How to reach me: mehedihasan.j135@gmail.com | +8801780013336  
+- 😄 Pronouns: He/Him  
+
+---
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mehedi37ts) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mehedi3709) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehedi-hasan007) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehedihasan.j135@gmail.com)
+
+---
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mehedi-ts&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=mehedi-ts&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-ts&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mehedi-ts)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mehedi-hasan-207a46308//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mehedi94657592)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mehedi37t/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@MehediHasa1355)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-ts)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedi-ts&show_icons=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mehedi-ts/contributions?format=svg&private=false)  
-
-![GitHub metrics](https://metrics.lecoq.io/mehedi-ts)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mehedi-ts)  
+[![](https://visitcount.itsvg.in/api?id=mehedi-ts&icon=0&color=0)](https://visitcount.itsvg.in)
 

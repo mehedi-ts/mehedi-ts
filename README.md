@@ -44,14 +44,14 @@ I focus on writing clean code, improving UI/UX, and continuously learning new te
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mehedi-ts&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mehedi-ts&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=mehedi-ts&theme=dark&hide_border=false" />
- 
-</p>
+![](https://streak-stats.demolab.com/?user=mehedi-ts&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-ts&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 
 [![](https://visitcount.itsvg.in/api?id=mehedi-ts&icon=0&color=0)](https://visitcount.itsvg.in)

@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mehedi Hasan
 
-#### Front-End Web Developer | React.js Enthusiast | Learning Next.js.
+#### Front-End Web Developer | React.js Enthusiast | Learning Next.js
 
 ![Mehedi Hasan](https://i.ibb.co.com/S7cPbn9F/Mehedi-Hasan-1.png)
 

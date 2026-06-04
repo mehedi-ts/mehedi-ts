@@ -17,7 +17,7 @@ I focus on writing clean code, improving UI/UX, and continuously learning new te
 - 👯 I’m looking to collaborate on Frontend projects & React-based web apps  
 - 🤔 I’m looking for help with Next.js & backend integration  
 - 💬 Ask me about React.js, JavaScript, HTML, CSS  
-- 📫 How to reach me: mehedihasan.j135@gmail.com | +8801780013336  
+- 📫 How to reach me: mehedits.dev@gmail.com | +8801780013336  
 - 😄 Pronouns: He/Him  
 
 ---

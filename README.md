@@ -1,58 +1,88 @@
-### Hi there 👋, I'm Mehedi Hasan
+<!--- banner --->
+<img src="https://i.ibb.co.com/FkXLMqKP/banner2.png" alt="Mehedi Hasan Banner">
 
-#### Front-End Web Developer | React.js Enthusiast |  Next.js
+<br/>
 
-![Mehedi Hasan](https://i.ibb.co.com/S7cPbn9F/Mehedi-Hasan-1.png)
+<!--- title --->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Mehedi Hasan</h1></summary>
+    <!--- typo --->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Frontend+Developer;React.js+%26+Next.js+Specialist;Building+Scalable+Full-Stack+Applications" alt="Typing SVG" /></a>
+  </ul>
+</div>
 
-I am passionate about building modern, responsive, and user-friendly web applications.  
-I focus on writing clean code, improving UI/UX, and continuously learning new technologies.
+<h3 align="center">Frontend Developer</h3>
 
-🚀 Turning ideas into real-world web experiences
+<br/>
+
+<!--- about --->
+Frontend Developer specializing in React.js and Next.js, with hands-on experience building scalable full-stack SaaS-style applications. I focus on writing clean, maintainable code and creating high-performance user experiences. Self-taught and continuously growing toward full-stack engineering. Open to freelance projects and full-time opportunities.
+
+```yaml
+name:               Mehedi Hasan
+role:                Frontend Developer
+location:            Narayanganj, Bangladesh
+specialization:      React.js, Next.js, Node.js, Express.js, MongoDB
+currently_learning:  JWT Authentication, Better Auth, Stripe
+email:               mehedits.dev@gmail.com
+```
+
+**🖥️ Currently:**
+- 🔭 Building modern, scalable web applications with **React.js and Next.js**
+- ⚙️ Working with **Node.js, Express.js, and MongoDB** on the backend
+- 🌱 Learning **JWT Authentication, Better Auth, and Stripe** payment integration
+- 💬 Ask me about **React, Next.js, Node.js, Express.js, MongoDB, or JWT Auth**
+- 📫 Reach me at **[mehedits.dev@gmail.com](mailto:mehedits.dev@gmail.com)**
+
+<br/>
+
+<!--- socials --->
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> CONNECT WITH ME:</b>
+
+<div>
+  <p align="left">
+    <a href="https://linkedin.com/in/mehedi-hasan007" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="mehedi-hasan007" height="30" width="40" /></a>
+    <a href="https://github.com/mehedi-ts" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="mehedi-ts" height="30" width="40" /></a>
+  </p>
+</div>
+
+<br/>
+
+<!--- technology --->
+## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"><b> TECHNOLOGY STACK:</b>
+
+### Frontend:
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind)](https://github.com/mehedi-ts)
+
+### Backend:
+[![Backend](https://skillicons.dev/icons?i=nodejs,express)](https://github.com/mehedi-ts)
+
+### Database:
+[![Database](https://skillicons.dev/icons?i=mongodb,firebase)](https://github.com/mehedi-ts)
+
+### Tools:
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,vercel)](https://github.com/mehedi-ts)
+
+<br/>
+
+<!--- statistics --->
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+
+### GitHub Statistics:
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedi-ts&hide_border=true&include_all_commits=false&count_private=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&bg_color=0F172A" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-ts&hide_border=true&layout=compact&title_color=8B5CF6&text_color=c9d1d9&bg_color=0F172A" /></a> |
+| ------------- | ------------- |
+
+### Streak Stats:
+<a><img align="center" src="https://streak-stats.demolab.com/?user=mehedi-ts&hide_border=true&background=0F172A&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" /></a>
+
+<br/>
+
+<!--- random quote --->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"><b> RANDOM DEV QUOTE:</b>
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark"/>
 
 ---
 
-# 💫 About Me:
-- 🔭 I’m currently working on modern front-end projects  
-- 🌱 I’m currently learning Next.js & advanced React concepts  
-- 👯 I’m looking to collaborate on Frontend projects & React-based web apps  
-- 🤔 I’m looking for help with Next.js & backend integration  
-- 💬 Ask me about React.js, JavaScript, HTML, CSS  
-- 📫 How to reach me: mehedits.dev@gmail.com | +8801780013336  
-- 😄 Pronouns: He/Him  
-
----
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mehedi37ts) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mehedi3709) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehedi-hasan007) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehedihasan.j135@gmail.com)
-
----
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mehedi-ts&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=mehedi-ts&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-ts&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-
-[![](https://visitcount.itsvg.in/api?id=mehedi-ts&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<!--- visit count --->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi-ts&label=Profile%20views&color=8B5CF6&style=flat" alt="mehedi-ts" /> </p>

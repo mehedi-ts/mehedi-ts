@@ -35,7 +35,7 @@ email:               mehedits.dev@gmail.com
 - 🌱 Learning **JWT Authentication, Better Auth, and Stripe** payment integration
 - 💬 Ask me about **React, Next.js, Node.js, Express.js, MongoDB, or JWT Auth**
 - 📫 Reach me at **[mehedits.dev@gmail.com](mailto:mehedits.dev@gmail.com)**
-- 🌐 Explore My Portfolio **[Mehedi Hasan](https://mehedidev-alpha.vercel.app/)** and My **[Resume]([https://drive.google.com/uc?export=download&id=1k6-itZYqgHNLzDHAxbEALXIqkusE00sT](https://drive.google.com/file/d/1k6-itZYqgHNLzDHAxbEALXIqkusE00sT/view?usp=sharing))**
+- 🌐 Explore my **[Portfolio](https://mehedidev-alpha.vercel.app/)** and **[Resume](https://drive.google.com/file/d/1k6-itZYqgHNLzDHAxbEALXIqkusE00sT/view?usp=sharing)**
 
 <br/>
 

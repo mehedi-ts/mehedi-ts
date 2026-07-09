@@ -8,15 +8,16 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Mehedi Hasan</h1></summary>
     <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Frontend+Developer;React.js+%26+Next.js+Specialist;Building+Scalable+Full-Stack+Applications" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Frontend+Developer;React.js+%26+Next.js+Specialist;Building+Scalable+Full-Stack+Applications" alt="Typing SVG" /></a>
   </ul>
 </div>
 
-<h3 align="center">Frontend Developer</h3>
+
 
 <br/>
 
 <!--- about --->
+## 👋 About Me
 Frontend Developer specializing in React.js and Next.js, with hands-on experience building scalable full-stack SaaS-style applications. I focus on writing clean, maintainable code and creating high-performance user experiences. Self-taught and continuously growing toward full-stack engineering. Open to freelance projects and full-time opportunities.
 
 ```yaml
@@ -34,6 +35,7 @@ email:               mehedits.dev@gmail.com
 - 🌱 Learning **JWT Authentication, Better Auth, and Stripe** payment integration
 - 💬 Ask me about **React, Next.js, Node.js, Express.js, MongoDB, or JWT Auth**
 - 📫 Reach me at **[mehedits.dev@gmail.com](mailto:mehedits.dev@gmail.com)**
+- 🌐 Explore My Portfolio **[Mehedi Hasan](https://mehedidev-alpha.vercel.app/)** and My **[Resume](https://drive.google.com/uc?export=download&id=1k6-itZYqgHNLzDHAxbEALXIqkusE00sT)**
 
 <br/>
 
@@ -74,13 +76,10 @@ email:               mehedits.dev@gmail.com
 | ------------- | ------------- |
 
 ### Streak Stats:
-<a><img align="center" src="https://streak-stats.demolab.com/?user=mehedi-ts&hide_border=true&background=0F172A&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" /></a>
+<a><img align="center" src="https://streak-stats.demolab.com/?user=mehedi-ts&hide_border=true&background=0F172A&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=c9d1d9&dates=c9d1d9&stroke=8B5CF6" /></a>
 
 <br/>
 
-<!--- random quote --->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"><b> RANDOM DEV QUOTE:</b>
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark"/>
 
 ---
 

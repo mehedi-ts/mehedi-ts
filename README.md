@@ -21,7 +21,7 @@
 Frontend Developer specializing in React.js and Next.js, with hands-on experience building scalable full-stack SaaS-style applications. I focus on writing clean, maintainable code and creating high-performance user experiences. Self-taught and continuously growing toward full-stack engineering. Open to freelance projects and full-time opportunities.
 
 ```yaml
-name:               Mehedi Hasan
+name:                Mehedi Hasan
 role:                Frontend Developer
 location:            Narayanganj, Bangladesh
 specialization:      React.js, Next.js, Node.js, Express.js, MongoDB
@@ -35,7 +35,7 @@ email:               mehedits.dev@gmail.com
 - 🌱 Learning **JWT Authentication, Better Auth, and Stripe** payment integration
 - 💬 Ask me about **React, Next.js, Node.js, Express.js, MongoDB, or JWT Auth**
 - 📫 Reach me at **[mehedits.dev@gmail.com](mailto:mehedits.dev@gmail.com)**
-- 🌐 Explore My Portfolio **[Mehedi Hasan](https://mehedidev-alpha.vercel.app/)** and My **[Resume](https://drive.google.com/uc?export=download&id=1k6-itZYqgHNLzDHAxbEALXIqkusE00sT)**
+- 🌐 Explore My Portfolio **[Mehedi Hasan](https://mehedidev-alpha.vercel.app/)** and My **[Resume]([https://drive.google.com/uc?export=download&id=1k6-itZYqgHNLzDHAxbEALXIqkusE00sT](https://drive.google.com/file/d/1k6-itZYqgHNLzDHAxbEALXIqkusE00sT/view?usp=sharing))**
 
 <br/>
 
